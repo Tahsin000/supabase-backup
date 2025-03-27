@@ -27,6 +27,6 @@ Ensure the following prerequisites are met before proceeding with the installati
    Clone the repository from GitHub to your local machine or server.
 
    ```bash
-   git clone https://github.com/yourusername/supabase-backup.git
+   git clone https://github.com/Tahsin000/supabase-backup.git
    cd supabase-backup
 # supabase-backup
